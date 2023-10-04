@@ -1,4 +1,4 @@
-- Olá, me chamo João 
+- João Pedro Silva Brito Teixeira
 - Brasileiro 
 - segundo ano do ensino medio 
 - Informatica no Instituto Federal Baiano Campus Guanambi
