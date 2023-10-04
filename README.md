@@ -1,8 +1,8 @@
-- Olá, me chamo João ✔
-- Sou Brasileiro ⚜
-- Estou no segundo ano do ensino medio 
-- Estudo Informatica no Instituto Federal Baiano Campus Guanambi
-- Tenho 16 anos
+- Olá, me chamo João 
+- Brasileiro 
+- segundo ano do ensino medio 
+- Informatica no Instituto Federal Baiano Campus Guanambi
+- 16 anos
   
 
 <div  align="center" style="margin-bottom:100px">
